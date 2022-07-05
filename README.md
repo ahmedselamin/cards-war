@@ -1,1 +1,1 @@
-# [demo ] https://cards-war.netlify.app/
+# https://cards-war.netlify.app/
