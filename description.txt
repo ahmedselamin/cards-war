@@ -1,0 +1,7 @@
+In this small project i have challenged my planning and problem solving skills
+to simulate this cards war game.
+ther is 2 decks of cards and each player flips a card
+and whoever has the heighest card is going to win
+and put all the cards into the pile then you flip over again.
+
+used JavaScript and CSS to build a deck of cards game
